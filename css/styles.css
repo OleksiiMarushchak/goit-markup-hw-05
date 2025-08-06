@@ -517,26 +517,11 @@ textarea {
     margin-right: 80px;
 }
 .footer-subscribe-form {
-
-}
-.subscribe-input-label {
     display: flex;
-        flex-direction: column;
-        gap: 16px;
-    font-weight: 500;
-    font-size: 16px;
-
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #fff;
-    margin-right: 24px;
+        gap: 24px;
 }
 
-.footer-subscribe-form {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-end;
-}
+
 
 .subscribe-input {
     font-size: 12px;
